@@ -1,7 +1,7 @@
-# week1-mini-project
+# Week 1 Mini Project
+Data bootcamp, Berlin 06-20
 
-Command line Hangman for the data bootcamp, berlin 06-20
-Guess which country is hiden behind. 
+Command line for Hangman game "Guess which country is hiden behind". 
 
 ## About the Game
 Hangman is a simple word guessing game. Players try to figure out an unknown word by guessing letters. If too many letters which do not appear in the word are guessed, the player is hanged (and loses).
